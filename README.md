@@ -10,8 +10,15 @@ The Basic Port Scanner is a simple Python script that scans for open ports on a 
 ## Usage
 
 1. Clone or download the script.
+   `git clone https://github.com/shopsaver/portscanncer.git`
 2. Open a terminal and navigate to the script's directory.
+
 3. Run the script using the following command:
 
 ```bash
-python basic_port_scanner.py
+python portscanner.py
+
+
+## Buy me a coffee
+
+https://www.buymeacoffee.com/shopsaver
